@@ -19,7 +19,7 @@ export default function Footer() {
             Email
           </a>
           <a
-            href="https://github.com"
+            href="https://github.com/mshekharc"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-white transition-colors"
@@ -27,7 +27,7 @@ export default function Footer() {
             GitHub
           </a>
           <a
-            href="https://linkedin.com"
+            href="https://www.linkedin.com/in/mrigank-shekhar-chaubey-41379598/"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-white transition-colors"
